@@ -28,6 +28,11 @@
 
 * _Git merge **branch_name** - merge branches_
 
+* _Git pull - downloading information from a remote repository_
+
+* _Git push - sending our version to a remote repository_
+
+
 ## 1) Text formatting
 
 1. In order to turn text in to cursive, you have to put one star(*) symbols from each side of the required text
@@ -73,10 +78,11 @@ eg.:
 
 * eg. ![Hello, it is a rock](rock.jpg)
 
-## 4) Quotes
+## 4) How to make pull request
 
-## 5) Work with table
-
-## 6)Citations
-
-## 7) Conclusion
+1. Makin a fork of repository 
+2. Creating a clone of OUR version of repository
+3. Adding a new branch in forked version
+4. Making commitments 
+5. Sending our version to the GitHub
+6. On the GitHub pushing on the pull request button
