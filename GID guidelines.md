@@ -32,6 +32,8 @@
 
 * _Git push - sending our version to a remote repository_
 
+* _CD - change directory_
+
 
 ## 1) Text formatting
 
